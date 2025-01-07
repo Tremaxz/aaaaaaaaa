@@ -10,3 +10,7 @@ end
 if game.PlaceId == 17435076424 or game.PlaceId == 17516264439 or game.PlaceId == 89784144896939 then
 	 loadstring(game:HttpGet("https://raw.githubusercontent.com/Tremaxz/SpikedZ/refs/heads/main/MAIN"))()
 end
+
+if game.PlaceId == 14947376751 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Tremaxz/CVR/refs/heads/main/CVR"))()
+end
