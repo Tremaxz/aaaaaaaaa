@@ -1,5 +1,4 @@
-
- if game.PlaceId == 5696406278 or game.PlaceId == 3840352284 then
+if game.PlaceId == 5696406278 or game.PlaceId == 3840352284 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Tremaxz/4.2/refs/heads/main/2"))()
 end
 
