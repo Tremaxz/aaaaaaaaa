@@ -13,3 +13,6 @@ end
 if game.PlaceId == 14947376751 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Tremaxz/CVR/refs/heads/main/CVR"))()
 end
+if game.PlaceId == 18668065416 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Tremaxz/Blue-lock/refs/heads/main/A"))()
+end
