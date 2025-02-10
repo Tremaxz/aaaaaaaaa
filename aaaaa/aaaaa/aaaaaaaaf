@@ -28,3 +28,6 @@ end
 if game.PlaceId == 115815718131154 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Tremaxz/Basket/refs/heads/main/Main"))()
 end
+if game.PlaceId == 12276235857 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Tremaxz/Lockzzzz/refs/heads/main/zzzzz"))()
+end
